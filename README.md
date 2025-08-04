@@ -10,7 +10,7 @@ This is a binary classification problem:
 - `1` = subscribed  
 - `0` = did not subscribe
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 ├── data/               # Raw and processed datasets (excluded from Git)
@@ -23,7 +23,7 @@ This is a binary classification problem:
 └── .gitignore
 ```
 
-## ⚙️ Environment Setup
+## Environment Setup
 
 ```bash
 pip install -r requirements.txt
@@ -31,25 +31,25 @@ pip install -r requirements.txt
 
 Python version: 3.9+
 
-## 📊 Notebooks
+## Notebooks
 
 - `eda.ipynb`: Exploratory data analysis
 - `baseline_model.ipynb`: First pass model with minimal tuning
 - `model_v2.ipynb`: Improved pipeline with feature engineering + tuning
 
-## 🔧 Scripts
+## Scripts
 
 - `src/preprocess.py`: Preprocessing functions to clean the Kaggle Bank data
 - `src/train.py`: Model Training
 
-## 📈 Evaluation Metric
+## Evaluation Metric
 
  (Need to figure out what Kaggle will use and insert it here)
 
-## 📎 Data Source
+## Data Source
 
 Data provided via [Kaggle Playground Series – August 2025](https://www.kaggle.com/competitions/playground-series-s5e8)
 
-## 📝 Notes
+## Notes
 
 - Data and trained models are excluded from Git. See `.gitignore`.
