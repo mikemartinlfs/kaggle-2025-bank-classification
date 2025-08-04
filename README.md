@@ -2,7 +2,7 @@
 
 Binary classification on bank marketing data for the August 2025 Kaggle Playground Series.
 
-## 🔍 Problem Statement
+## Problem Statement
 
 Predict whether a client will subscribe to a bank term deposit.
 
